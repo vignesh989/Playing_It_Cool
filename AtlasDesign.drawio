@@ -1,36 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="4fDO31qfMd2ks5ZTsBHN">
-    <mxGraphModel dx="1397" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="405" y="70" width="30" height="30" as="geometry" />
+          <mxGeometry x="575" y="80" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gykDoLQ3v6fPe2VFT6uG-1" target="gykDoLQ3v6fPe2VFT6uG-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="150" as="targetPoint" />
+            <mxPoint x="585" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gykDoLQ3v6fPe2VFT6uG-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="240" as="targetPoint" />
+            <mxPoint x="590" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-4" value="Document Ready For Upload" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="200" height="50" as="geometry" />
+          <mxGeometry x="490" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gykDoLQ3v6fPe2VFT6uG-23" target="gykDoLQ3v6fPe2VFT6uG-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="290" as="sourcePoint" />
+            <mxPoint x="590" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-7" value="AI Suggestion" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="355" y="330" width="130" height="50" as="geometry" />
+          <mxGeometry x="525" y="340" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gykDoLQ3v6fPe2VFT6uG-7" target="gykDoLQ3v6fPe2VFT6uG-13">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="570" y="355" as="targetPoint" />
+            <mxPoint x="740" y="365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-9" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gykDoLQ3v6fPe2VFT6uG-8">
@@ -40,7 +40,7 @@
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="gykDoLQ3v6fPe2VFT6uG-7">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="420" y="450" as="targetPoint" />
+            <mxPoint x="590" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-11" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gykDoLQ3v6fPe2VFT6uG-10">
@@ -52,22 +52,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-13" value="AI Suggestion Flow" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="370" width="170" height="50" as="geometry" />
+          <mxGeometry x="720" y="380" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gykDoLQ3v6fPe2VFT6uG-15" target="gykDoLQ3v6fPe2VFT6uG-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-15" value="Wait for EOL" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="640" width="70" height="80" as="geometry" />
+          <mxGeometry x="555" y="650" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gykDoLQ3v6fPe2VFT6uG-17" target="gykDoLQ3v6fPe2VFT6uG-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-17" value="Approval Process" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="450" width="180" height="50" as="geometry" />
+          <mxGeometry x="500" y="460" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-18" value="Publish Process" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="540" width="180" height="50" as="geometry" />
+          <mxGeometry x="500" y="550" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.271;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gykDoLQ3v6fPe2VFT6uG-18" target="gykDoLQ3v6fPe2VFT6uG-15">
           <mxGeometry relative="1" as="geometry" />
@@ -76,19 +76,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-21" value="Expiration Process" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="760" width="170" height="50" as="geometry" />
+          <mxGeometry x="505" y="770" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="405" y="860" width="30" height="30" as="geometry" />
+          <mxGeometry x="575" y="870" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-23" value="Create Knowledge Base" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="240" width="170" height="50" as="geometry" />
+          <mxGeometry x="505" y="250" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-24" value="Start" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="75" width="30" height="20" as="geometry" />
+          <mxGeometry x="605" y="85" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gykDoLQ3v6fPe2VFT6uG-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Primary Process&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="70" width="230" height="120" as="geometry" />
+        <mxCell id="gykDoLQ3v6fPe2VFT6uG-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Primary Business Process&lt;/h1&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;When&amp;nbsp;&lt;b&gt;Content Managers (CM)&lt;/b&gt;&amp;nbsp;are ready with documents created for circulation, they use the&amp;nbsp;&lt;b&gt;Atlas Knowledge Manager&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-weight: var(--fontWeightSemibold);&quot;&gt;system&lt;/span&gt;&amp;nbsp;to upload them. The first step involves creating the necessary&amp;nbsp;&lt;b&gt;metadata&amp;nbsp;&lt;/b&gt;for the&amp;nbsp;&lt;b&gt;Knowledge Base&lt;/b&gt;. This includes details such as the&amp;nbsp;&lt;b&gt;title,&amp;nbsp;description,&amp;nbsp;keywords,&amp;nbsp;expiration date&lt;/b&gt;, and other relevant information that helps categorize and manage the document effectively.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;Once this metadata is populated, users have the option to utilize the&amp;nbsp;&lt;b&gt;AI suggestion process&lt;/b&gt;. This process enhances the metadata by generating additional&amp;nbsp;&lt;b&gt;keywords&amp;nbsp;&lt;/b&gt;and&amp;nbsp;&lt;b&gt;descriptions&amp;nbsp;&lt;/b&gt;based on the content of the document. The AI helps ensure that the document is easily searchable and accurately described, making it more accessible to users.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;After the AI suggestions are incorporated, the CM adds any final touches to the records, ensuring all information is complete and accurate. The document is then submitted to the&amp;nbsp;&lt;b&gt;Content Administrators (CA)&lt;/b&gt;. The CA team is responsible for reviewing the document and its metadata. They check for any errors, raise corrections if needed, and ensure the document meets the required standards before it can be published.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;Once the document is approved by the CA team, it moves to the&amp;nbsp;&lt;b&gt;publishing process&lt;/b&gt;. During this stage, the document is transferred to a&amp;nbsp;&lt;b&gt;secure SharePoint location&lt;/b&gt;. This ensures that the document is stored safely and can be accessed by authorized users. The document remains in this location until it reaches its&amp;nbsp;&lt;span style=&quot;font-weight: var(--fontWeightSemibold);&quot;&gt;expiration date&lt;/span&gt;.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;Throughout its lifecycle, the document is used by&amp;nbsp;&lt;b&gt;Copilot Studio (Polly)&lt;/b&gt;&amp;nbsp;to answer questions based on the content present in it. This allows users to retrieve information from the document efficiently and accurately.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;When the document hits its&amp;nbsp;&lt;b&gt;end of life (EOL)&lt;/b&gt;, it enters the&amp;nbsp;&lt;b&gt;archival process&lt;/b&gt;. During this stage, the document is removed from circulation and stored in an archive. This ensures that outdated or irrelevant documents do not clutter the system, maintaining the integrity and efficiency of the Knowledge Base.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="390" height="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

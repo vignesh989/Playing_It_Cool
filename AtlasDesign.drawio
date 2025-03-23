@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QVjOyy0_XunTG6Lbrx-u" name="Nodes&amp;Flow Diagram">
-    <mxGraphModel dx="3584" dy="552" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3333" dy="409" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,13 +327,13 @@
           <mxGeometry x="-340" y="1200" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VJx8uLZAZXvzjcLDV190-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#BFBFBF,#EDEDED);" vertex="1" parent="VJx8uLZAZXvzjcLDV190-69">
-          <mxGeometry width="120" height="100" as="geometry" />
+          <mxGeometry y="-10" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VJx8uLZAZXvzjcLDV190-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Entra_Managed_Identities.svg;" vertex="1" parent="VJx8uLZAZXvzjcLDV190-69">
-          <mxGeometry x="26" y="9.559999999999945" width="68" height="60.440000000000005" as="geometry" />
+          <mxGeometry x="26" y="-5.5067062021407764e-14" width="68" height="60.440000000000005" as="geometry" />
         </mxCell>
         <mxCell id="VJx8uLZAZXvzjcLDV190-10" value="&lt;b&gt;Entra Identity&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VJx8uLZAZXvzjcLDV190-69">
-          <mxGeometry x="13" y="70" width="94" height="30" as="geometry" />
+          <mxGeometry x="13" y="70" width="94" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uTaMs88RGW-ScFKFh_Ft-33" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="240" y="1400" width="140" height="110" as="geometry" />
@@ -520,7 +520,7 @@
         <mxCell id="VJx8uLZAZXvzjcLDV190-107" value="&lt;font&gt;S02&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-120" y="1555" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VJx8uLZAZXvzjcLDV190-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uTaMs88RGW-ScFKFh_Ft-15">
+        <mxCell id="VJx8uLZAZXvzjcLDV190-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="uTaMs88RGW-ScFKFh_Ft-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1470" as="targetPoint" />
             <Array as="points">
@@ -752,10 +752,11 @@
         <mxCell id="VJx8uLZAZXvzjcLDV190-211" value="T15" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="1880" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VJx8uLZAZXvzjcLDV190-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VJx8uLZAZXvzjcLDV190-32" target="VJx8uLZAZXvzjcLDV190-9">
+        <mxCell id="VJx8uLZAZXvzjcLDV190-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJx8uLZAZXvzjcLDV190-32" target="VJx8uLZAZXvzjcLDV190-9">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="1320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-330" y="1990" />
+              <mxPoint x="-320" y="1990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -774,6 +775,42 @@
         </mxCell>
         <mxCell id="VJx8uLZAZXvzjcLDV190-219" value="T16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="1770" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-221" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="2240" as="sourcePoint" />
+            <mxPoint x="-440" y="2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-222" value="&lt;b&gt;Data Flow - Bidirectional&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="2210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-223" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="2320" as="sourcePoint" />
+            <mxPoint x="-440" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-224" value="&lt;b&gt;Data Flow -&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;Unidirectional&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="2290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-226" value="TXX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-240" y="2200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-227" value="TXX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-240" y="2280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-228" value="TXX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-40" y="2200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-229" value="&lt;b&gt;Node - Processing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-230" value="&lt;b&gt;Node - Transit&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJx8uLZAZXvzjcLDV190-231" value="&lt;b&gt;Node - Storage&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="2210" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

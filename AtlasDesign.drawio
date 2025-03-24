@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1" pages="11">
   <diagram id="oFfpY6NoHX6DL6eM6Xeb" name="Components">
     <mxGraphModel dx="2826" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1744,6 +1744,74 @@
         </mxCell>
         <mxCell id="VJx8uLZAZXvzjcLDV190-231" value="&lt;b&gt;Node - Storage&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="2210" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="N0AcFYUDWGjkdaPddDHa" name="Security ">
+    <mxGraphModel dx="2186" dy="389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w34RwktMD3K7SeW2754E-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-100" y="810" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w34RwktMD3K7SeW2754E-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="w34RwktMD3K7SeW2754E-1">
+          <mxGeometry width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w34RwktMD3K7SeW2754E-3" value="&lt;b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-IE;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;PeopleServicesCopilotStudio-Canvasapp&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="w34RwktMD3K7SeW2754E-1">
+          <mxGeometry x="10.549999999999999" y="90" width="298.89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w34RwktMD3K7SeW2754E-4" value="Service Principal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="w34RwktMD3K7SeW2754E-1">
+          <mxGeometry x="106.89888888888889" y="70" width="106.21111111111112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w34RwktMD3K7SeW2754E-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Registrations.svg;container=0;" vertex="1" parent="w34RwktMD3K7SeW2754E-1">
+          <mxGeometry x="130.00221094190636" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5kkjS3QZRhyJM_5yEZB-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-640" y="760" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="L5kkjS3QZRhyJM_5yEZB-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L5kkjS3QZRhyJM_5yEZB-1">
+          <mxGeometry width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="L5kkjS3QZRhyJM_5yEZB-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_management_account;container=0;" vertex="1" parent="L5kkjS3QZRhyJM_5yEZB-1">
+          <mxGeometry x="68.5" y="22" width="74" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="L5kkjS3QZRhyJM_5yEZB-4" value="&lt;b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-IE;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;svcacc_PS1CopilotStudio&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="L5kkjS3QZRhyJM_5yEZB-1">
+          <mxGeometry x="7" y="120" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5kkjS3QZRhyJM_5yEZB-5" value="Service Account" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="L5kkjS3QZRhyJM_5yEZB-1">
+          <mxGeometry x="30.5" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxr3GA9OM6ZJ1GivgHj7-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="810" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cxr3GA9OM6ZJ1GivgHj7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cxr3GA9OM6ZJ1GivgHj7-1">
+          <mxGeometry width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cxr3GA9OM6ZJ1GivgHj7-3" value="&lt;b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-IE;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;PeopleServicesCopilotStudio-Process&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="cxr3GA9OM6ZJ1GivgHj7-1">
+          <mxGeometry x="9.570937499999998" y="82.5" width="270.86906250000004" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cxr3GA9OM6ZJ1GivgHj7-4" value="Service Principal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="cxr3GA9OM6ZJ1GivgHj7-1">
+          <mxGeometry x="96.86711805555557" y="62.5" width="96.25381944444446" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cxr3GA9OM6ZJ1GivgHj7-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Registrations.svg;container=0;" vertex="1" parent="cxr3GA9OM6ZJ1GivgHj7-1">
+          <mxGeometry x="118.75450366610265" y="10" width="52.5" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k-iSCRZfTo-ej8FSto7w-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-400" y="810" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k-iSCRZfTo-ej8FSto7w-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k-iSCRZfTo-ej8FSto7w-1">
+          <mxGeometry width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k-iSCRZfTo-ej8FSto7w-3" value="&lt;b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-ansi-language:EN-IE;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;PeopleServicesCopilotStudio-Auth&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="k-iSCRZfTo-ej8FSto7w-1">
+          <mxGeometry x="10" y="85" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k-iSCRZfTo-ej8FSto7w-4" value="Service Principal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="k-iSCRZfTo-ej8FSto7w-1">
+          <mxGeometry x="87.21" y="65" width="95.59" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k-iSCRZfTo-ej8FSto7w-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Registrations.svg;container=0;" vertex="1" parent="k-iSCRZfTo-ej8FSto7w-1">
+          <mxGeometry x="110" y="10" width="55" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1" pages="9">
   <diagram id="oFfpY6NoHX6DL6eM6Xeb" name="Components">
     <mxGraphModel dx="2826" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Primary BPF" id="4fDO31qfMd2ks5ZTsBHN">
+  <diagram name="Primary BPF KM" id="4fDO31qfMd2ks5ZTsBHN">
     <mxGraphModel dx="1688" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -181,6 +181,198 @@
         </mxCell>
         <mxCell id="gykDoLQ3v6fPe2VFT6uG-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Primary Business Process&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;When&amp;nbsp;&lt;b&gt;Content Managers (CM)&lt;/b&gt;&amp;nbsp;are ready with documents created for circulation, they use the&amp;nbsp;&lt;b&gt;Atlas Knowledge Manager&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-weight: var(--fontWeightSemibold);&quot;&gt;system&lt;/span&gt;&amp;nbsp;to upload them. The first step involves creating the necessary&amp;nbsp;&lt;b&gt;metadata&amp;nbsp;&lt;/b&gt;for the&amp;nbsp;&lt;b&gt;Knowledge Base&lt;/b&gt;. This includes details such as the&amp;nbsp;&lt;b&gt;title,&amp;nbsp;description,&amp;nbsp;keywords,&amp;nbsp;expiration date&lt;/b&gt;, and other relevant information that helps categorize and manage the document effectively.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Once this metadata is populated, users have the option to utilize the&amp;nbsp;&lt;b&gt;AI suggestion process&lt;/b&gt;. This process enhances the metadata by generating additional&amp;nbsp;&lt;b&gt;keywords&amp;nbsp;&lt;/b&gt;and&amp;nbsp;&lt;b&gt;descriptions&amp;nbsp;&lt;/b&gt;based on the content of the document. The AI helps ensure that the document is easily searchable and accurately described, making it more accessible to users.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;After the AI suggestions are incorporated, the CM adds any final touches to the records, ensuring all information is complete and accurate. The document is then submitted to the&amp;nbsp;&lt;b&gt;Content Administrators (CA)&lt;/b&gt;. The CA team is responsible for reviewing the document and its metadata. They check for any errors, raise corrections if needed, and ensure the document meets the required standards before it can be published.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Once the document is approved by the CA team, it moves to the&amp;nbsp;&lt;b&gt;publishing process&lt;/b&gt;. During this stage, the document is transferred to a&amp;nbsp;&lt;b&gt;secure SharePoint location&lt;/b&gt;. This ensures that the document is stored safely and can be accessed by authorized users. The document remains in this location until it reaches its&amp;nbsp;&lt;span style=&quot;font-weight: var(--fontWeightSemibold);&quot;&gt;expiration date&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Throughout its lifecycle, the document is used by&amp;nbsp;&lt;b&gt;Copilot Studio (Polly)&lt;/b&gt;&amp;nbsp;to answer questions based on the content present in it. This allows users to retrieve information from the document efficiently and accurately.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 1em; overflow-wrap: break-word; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;When the document hits its&amp;nbsp;&lt;b style=&quot;&quot;&gt;end of life (EOL)&lt;/b&gt;, it enters the&amp;nbsp;&lt;b style=&quot;&quot;&gt;archival process&lt;/b&gt;. During this stage, the document is removed from circulation and stored in an archive. This ensures that outdated or irrelevant documents do not clutter the system, maintaining the integrity and efficiency of the Knowledge Base.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="70" width="390" height="820" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gbW5588nalWASTl_cweh" name="Primary BPF Polly">
+    <mxGraphModel dx="2784" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-1" target="Ogwlvl--3t9lAkerWl1p-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-35" value="Is the query personal/context specific?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="40" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-36" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.99;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="Ogwlvl--3t9lAkerWl1p-35" parent="1" target="Ogwlvl--3t9lAkerWl1p-41">
+          <mxGeometry x="-0.2" y="-62" relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="targetPoint" />
+            <mxPoint x="-2" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-42" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ogwlvl--3t9lAkerWl1p-36">
+          <mxGeometry x="-0.0755" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-37" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Ogwlvl--3t9lAkerWl1p-35" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="60" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-43" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ogwlvl--3t9lAkerWl1p-37">
+          <mxGeometry x="-0.1395" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-38" value="BOI Colleague&amp;nbsp;&lt;div&gt;Has A Query&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-39" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Ogwlvl--3t9lAkerWl1p-38" parent="1" target="Ogwlvl--3t9lAkerWl1p-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-41" value="Raise a People Portal query" style="shape=mxgraph.uml25.actionParams;html=1;align=center;verticalAlign=top;absoluteArcSize=1;arcSize=10;dashed=0;spacingLeft=10;spacingTop=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="50" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-44" target="Ogwlvl--3t9lAkerWl1p-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-44" value="User opens Polly and types in the question" style="shape=mxgraph.uml25.actionParams;html=1;align=center;verticalAlign=top;absoluteArcSize=1;arcSize=10;dashed=0;spacingLeft=10;spacingTop=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="180" width="295" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-45" value="Kick Off" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-46" value="Ask Question Flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Ogwlvl--3t9lAkerWl1p-45">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-47" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Ogwlvl--3t9lAkerWl1p-45" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-49" target="Ogwlvl--3t9lAkerWl1p-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-49" value="Analyze question with&amp;nbsp;&lt;div&gt;generative AI node&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="390" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-50" target="Ogwlvl--3t9lAkerWl1p-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-50" value="Search for answer in knowledge source" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="510" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-51" value="SharePoint" style="html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="520" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-52" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" source="Ogwlvl--3t9lAkerWl1p-51" target="Ogwlvl--3t9lAkerWl1p-53" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-53" value="" style="shape=requiredInterface;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="540" width="5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-53" target="Ogwlvl--3t9lAkerWl1p-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-56" value="Answer found?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="650" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-57" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-56" target="Ogwlvl--3t9lAkerWl1p-62">
+          <mxGeometry x="-0.2" y="-62" relative="1" as="geometry">
+            <mxPoint x="287" y="645" as="targetPoint" />
+            <mxPoint x="-2" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-58" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ogwlvl--3t9lAkerWl1p-57">
+          <mxGeometry x="-0.0755" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-62" value="Respond with&amp;nbsp;Citations" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-63" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;html=1;" vertex="1" parent="Ogwlvl--3t9lAkerWl1p-62">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-20" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-65" target="Ogwlvl--3t9lAkerWl1p-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-65" value="Pass Query to Advanced Prompt Model" style="shape=mxgraph.uml25.actionParams;html=1;align=center;verticalAlign=top;absoluteArcSize=1;arcSize=10;dashed=0;spacingLeft=10;spacingTop=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="30" width="295" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-74" value="Kick Off" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-75" value="AI Builder - Prompt Flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Ogwlvl--3t9lAkerWl1p-74">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-76" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-78" target="Ogwlvl--3t9lAkerWl1p-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-78" value="AI Builder prompt tries to&amp;nbsp;&lt;div&gt;find the answer&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="250" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-79" value="Answer found?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="390" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-80" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-79" target="Ogwlvl--3t9lAkerWl1p-62">
+          <mxGeometry x="-0.2" y="-62" relative="1" as="geometry">
+            <mxPoint x="887.5" y="425" as="targetPoint" />
+            <mxPoint x="-2" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-81" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ogwlvl--3t9lAkerWl1p-80">
+          <mxGeometry x="-0.0755" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-82" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-79" target="Ogwlvl--3t9lAkerWl1p-86">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="657.5" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-83" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ogwlvl--3t9lAkerWl1p-82">
+          <mxGeometry x="-0.1395" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-86" target="Ogwlvl--3t9lAkerWl1p-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-86" value="Pass to Fallback Topic" style="shape=mxgraph.uml25.actionParams;html=1;align=center;verticalAlign=top;absoluteArcSize=1;arcSize=10;dashed=0;spacingLeft=10;spacingTop=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="550" width="295" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-88" target="Ogwlvl--3t9lAkerWl1p-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-88" value="End Conversation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-90" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=0.132;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ogwlvl--3t9lAkerWl1p-62" target="Ogwlvl--3t9lAkerWl1p-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-94" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.015;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="531.9250000000002" y="56.15000000000009" as="targetPoint" />
+            <mxPoint x="207.5" y="685" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="297.5" y="685" />
+              <mxPoint x="297.5" y="56" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogwlvl--3t9lAkerWl1p-96" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ogwlvl--3t9lAkerWl1p-94">
+          <mxGeometry x="-0.1503" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1876,7 +2068,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-26" value="OnRecognizedIntent (main)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1170" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-27" value="Greeting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="800" width="120" height="60" as="geometry" />
@@ -1915,16 +2107,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-39" value="OnInactivity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-40" value="ClearAllVariables" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-41" value="CancelAllDialogs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-42" value="EndConversation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-43" edge="1" parent="1" source="0i4U1cs4xmaMpht_vztr-39" target="0i4U1cs4xmaMpht_vztr-40">
           <mxGeometry relative="1" as="geometry" />
@@ -2086,13 +2278,13 @@
           <mxGeometry x="490" y="2430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-96" value="AdvancedAnswerGeneration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="2600" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="2600" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-97" value="Fallback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="2430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-98" value="ProvideAdvancedAnswer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="2430" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="2700" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0i4U1cs4xmaMpht_vztr-99" value="FollowUp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="2430" width="120" height="60" as="geometry" />
@@ -2119,7 +2311,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9KZktUvNXVqCtB7O6hOv" name="Polly Flow 2">
-    <mxGraphModel dx="3694" dy="2441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2826" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

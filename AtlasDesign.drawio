@@ -3008,10 +3008,103 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m_CQfoN7hoz5juRrkdTl" name="Notification &amp; Alerts">
-    <mxGraphModel dx="1380" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1757" dy="1003" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wdAxUKnWszeGTwjKSNaL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="216" y="610" width="424" height="302" as="geometry" />
+        </mxCell>
+        <mxCell id="wdAxUKnWszeGTwjKSNaL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RSTWyE9YyTXzDgz-hBoW-1" target="8yecQQdlK0bFA5rAUche-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSTWyE9YyTXzDgz-hBoW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="204" width="650" height="752" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nSwdlMZv6vsr6EKYkQu3-2" target="nSwdlMZv6vsr6EKYkQu3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122" y="288" width="612" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="O2X9t-tS9zqq0NeZ2qg6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O2X9t-tS9zqq0NeZ2qg6-2" target="O2X9t-tS9zqq0NeZ2qg6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2X9t-tS9zqq0NeZ2qg6-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="51" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O2X9t-tS9zqq0NeZ2qg6-3" value="On Flow Tigger" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="25" width="105" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O2X9t-tS9zqq0NeZ2qg6-5" target="nSwdlMZv6vsr6EKYkQu3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2X9t-tS9zqq0NeZ2qg6-5" value="When KB Status Change" style="html=1;whiteSpace=wrap;rounded=1;arcSize=34;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="115" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-1" value="Notify Back Office User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="204" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nSwdlMZv6vsr6EKYkQu3-3" target="nSwdlMZv6vsr6EKYkQu3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nSwdlMZv6vsr6EKYkQu3-3" target="nSwdlMZv6vsr6EKYkQu3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nSwdlMZv6vsr6EKYkQu3-3" target="nSwdlMZv6vsr6EKYkQu3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nSwdlMZv6vsr6EKYkQu3-3" target="nSwdlMZv6vsr6EKYkQu3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nSwdlMZv6vsr6EKYkQu3-3" target="nSwdlMZv6vsr6EKYkQu3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-3" value="Switch Based on Status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="321.75" y="288" width="207.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-4" value="Set Proposed Change Template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="125" y="376" width="207.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-5" value="Set Approved Template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="165.5" y="446" width="207.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-6" value="Set Rejected Template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="321.75" y="497" width="207.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-7" value="Set Published Template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="474" y="446" width="207.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-8" value="Set Archived Template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="513" y="376" width="207.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="wdAxUKnWszeGTwjKSNaL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nSwdlMZv6vsr6EKYkQu3-15" target="wdAxUKnWszeGTwjKSNaL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSwdlMZv6vsr6EKYkQu3-15" value="Call Child Flow &quot;Send Email Using Template&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="252" y="610" width="352" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8yecQQdlK0bFA5rAUche-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1096" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8yecQQdlK0bFA5rAUche-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yecQQdlK0bFA5rAUche-3" target="8yecQQdlK0bFA5rAUche-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8yecQQdlK0bFA5rAUche-3" value="Error Handler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="999" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="8yecQQdlK0bFA5rAUche-4" value="Terminate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1126" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdAxUKnWszeGTwjKSNaL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdAxUKnWszeGTwjKSNaL-2" target="wdAxUKnWszeGTwjKSNaL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdAxUKnWszeGTwjKSNaL-2" value="Call Custom Action &quot;Send Email Using Template&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="264" y="703" width="328" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wdAxUKnWszeGTwjKSNaL-3" value="Log Email" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="334.5" y="807" width="187" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

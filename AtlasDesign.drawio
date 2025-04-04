@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.1" pages="17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.1" pages="18">
   <diagram name="Primary BPF KM" id="4fDO31qfMd2ks5ZTsBHN">
     <mxGraphModel dx="1688" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4727,6 +4727,91 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P3KgMRLdVp3fZhkubQ_w" name="Discover My Capabilities">
+    <mxGraphModel dx="1620" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Eb45i_hr16s2t94rXDle-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eb45i_hr16s2t94rXDle-18" target="Eb45i_hr16s2t94rXDle-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="380" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="260" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-9" value="Intent Recognition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-17" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot;&gt;Microsoft Copilot Studio NLU&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-19" value="Flow Invocation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eb45i_hr16s2t94rXDle-20" target="Eb45i_hr16s2t94rXDle-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-20" value="Retrieves Published KB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="410" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eb45i_hr16s2t94rXDle-21" target="Eb45i_hr16s2t94rXDle-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-21" value="Copilot Studio Trigger" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-24" value="AI Builder Prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-25" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot;&gt;Model GPT-4o mini&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-26" value="Temperature 0.4" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="570" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-27" value="Grounded" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="570" y="700" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1" source="Eb45i_hr16s2t94rXDle-28" target="Eb45i_hr16s2t94rXDle-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-28" value="Respond To Copilot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="800" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eb45i_hr16s2t94rXDle-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0GgWwDP_bEwpclISzIHs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eb45i_hr16s2t94rXDle-34" target="0GgWwDP_bEwpclISzIHs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eb45i_hr16s2t94rXDle-34" value="Response Generation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="940" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0GgWwDP_bEwpclISzIHs-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1050" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QedOYEyrkpYq7VJj46YM-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QedOYEyrkpYq7VJj46YM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="40" as="targetPoint" />
+            <mxPoint x="650" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QedOYEyrkpYq7VJj46YM-3" value="On User Query" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="-76" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QedOYEyrkpYq7VJj46YM-4" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-50" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

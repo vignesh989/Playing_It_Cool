@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.1" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.1" pages="19">
   <diagram name="Primary BPF KM" id="4fDO31qfMd2ks5ZTsBHN">
     <mxGraphModel dx="1688" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2794,7 +2794,7 @@
           <mxGeometry x="930" y="302" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R11czojmElTaV_Lu87wX-3" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot;&gt;Model GPT-4o&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="920" y="362" width="200" height="60" as="geometry" />
+          <mxGeometry x="920" y="357" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R11czojmElTaV_Lu87wX-4" value="Temperature 0.2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="940" y="442" width="160" height="40" as="geometry" />
@@ -4144,6 +4144,88 @@
         </mxCell>
         <mxCell id="QedOYEyrkpYq7VJj46YM-4" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="630" y="-50" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Feedback Process" id="3VnBQkN7PD_wRQrsixjl">
+    <mxGraphModel dx="1620" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-0" />
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-1" parent="rOpeIUdtiFVFUYy0F7Xr-0" />
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOpeIUdtiFVFUYy0F7Xr-1" source="rOpeIUdtiFVFUYy0F7Xr-3" target="rOpeIUdtiFVFUYy0F7Xr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="457.5" y="507" width="385" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="z3mNWzdfGA6n8tQb2d0h-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="rOpeIUdtiFVFUYy0F7Xr-1" source="rOpeIUdtiFVFUYy0F7Xr-5" target="z3mNWzdfGA6n8tQb2d0h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="520" y="40" width="260" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-6" value="Intent Recognition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="560" y="40" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-7" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot;&gt;Microsoft Copilot Studio NLU&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="550" y="100" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-8" value="Flow Invocation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="560" y="509" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOpeIUdtiFVFUYy0F7Xr-1" source="rOpeIUdtiFVFUYy0F7Xr-10" target="rOpeIUdtiFVFUYy0F7Xr-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="651" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-10" value="Create row in Atlas Feedback&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="568.5" y="665" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOpeIUdtiFVFUYy0F7Xr-1" source="rOpeIUdtiFVFUYy0F7Xr-12" target="rOpeIUdtiFVFUYy0F7Xr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-12" value="Copilot Studio Trigger" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="581" y="565" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-18" value="Respond To Copilot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="581" y="768" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOpeIUdtiFVFUYy0F7Xr-1" source="rOpeIUdtiFVFUYy0F7Xr-21" target="rOpeIUdtiFVFUYy0F7Xr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-21" value="Response Generation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="530" y="897" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="630" y="986" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="rOpeIUdtiFVFUYy0F7Xr-1" source="rOpeIUdtiFVFUYy0F7Xr-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="40" as="targetPoint" />
+            <mxPoint x="650" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-24" value="On User Feedback" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="575" y="-76" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rOpeIUdtiFVFUYy0F7Xr-25" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="630" y="-50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3mNWzdfGA6n8tQb2d0h-0" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot;&gt;Topic Redirect&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="550" y="195" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3mNWzdfGA6n8tQb2d0h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOpeIUdtiFVFUYy0F7Xr-1" source="z3mNWzdfGA6n8tQb2d0h-2" target="z3mNWzdfGA6n8tQb2d0h-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3mNWzdfGA6n8tQb2d0h-2" value="Send Adaptive Card" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="580" y="342" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3mNWzdfGA6n8tQb2d0h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rOpeIUdtiFVFUYy0F7Xr-1" source="z3mNWzdfGA6n8tQb2d0h-3" target="rOpeIUdtiFVFUYy0F7Xr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3mNWzdfGA6n8tQb2d0h-3" value="On Submit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rOpeIUdtiFVFUYy0F7Xr-1">
+          <mxGeometry x="590" y="443" width="120" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

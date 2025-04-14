@@ -3391,7 +3391,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Expiration Process" id="y-9U6Z8yKCokGMNooNbd">
-    <mxGraphModel dx="2020" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1683" dy="1362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PtGGUmoRjlQLb2YfIKes-0" />
         <mxCell id="PtGGUmoRjlQLb2YfIKes-1" parent="PtGGUmoRjlQLb2YfIKes-0" />
@@ -3468,6 +3468,9 @@
         </mxCell>
         <mxCell id="grK7kmLoVYjl61gnXfLF-2" value="On Flow Tigger" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="PtGGUmoRjlQLb2YfIKes-1">
           <mxGeometry x="920" y="-60" width="105" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SId_8YzYg1oVuwQ7wd3r-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PtGGUmoRjlQLb2YfIKes-1" source="grK7kmLoVYjl61gnXfLF-3" target="grK7kmLoVYjl61gnXfLF-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="grK7kmLoVYjl61gnXfLF-3" value="When Knowledge Base status reason is modified to Archived" style="html=1;whiteSpace=wrap;rounded=1;arcSize=34;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PtGGUmoRjlQLb2YfIKes-1">
           <mxGeometry x="782.5" y="40" width="380" height="50" as="geometry" />

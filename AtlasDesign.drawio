@@ -3460,6 +3460,18 @@
         <mxCell id="4dbIntOxa8U-_QTKRrmO-3" value="Terminate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PtGGUmoRjlQLb2YfIKes-1" vertex="1">
           <mxGeometry x="395.5" y="780" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="grK7kmLoVYjl61gnXfLF-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PtGGUmoRjlQLb2YfIKes-1" source="grK7kmLoVYjl61gnXfLF-1" target="grK7kmLoVYjl61gnXfLF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grK7kmLoVYjl61gnXfLF-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="PtGGUmoRjlQLb2YfIKes-1">
+          <mxGeometry x="420.5" y="-24" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="grK7kmLoVYjl61gnXfLF-2" value="On Flow Tigger" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="PtGGUmoRjlQLb2YfIKes-1">
+          <mxGeometry x="383" y="-50" width="105" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="grK7kmLoVYjl61gnXfLF-3" value="Recurrence - daily at 10am" style="html=1;whiteSpace=wrap;rounded=1;arcSize=34;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PtGGUmoRjlQLb2YfIKes-1">
+          <mxGeometry x="333" y="50" width="205" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
